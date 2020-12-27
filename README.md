@@ -22,4 +22,4 @@ For those who use qb server with JOB GRADES
             payment = 500,
         },
     }
-},
+}, 
