@@ -1,5 +1,5 @@
 # qb-gundealerjob
-Gundealer job for QBCore
+Gundealer job script for QBCore - Stash , Armory , Vehicle Spawner , Blip
 
 Add the job to qb-core folder after open shared.lua
 
